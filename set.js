@@ -29,7 +29,7 @@ module.exports = {
     DULLAH_CHATBOT : process.env.DULLAH_CHATBOT || 'no',
     ANTICALL : process.env.ANTICALL || 'no',
     AUTO_REACT : process.env.AUTO_REACT || 'no',
-    AUTO_REACT_STATUS : process.env.AUTO_REACT_STATUS || 'no',
+    AUTO_REACT_STATUS : process.env.AUTO_REACT_STATUS || 'yes',
     AUTO_REPLY : process.env.AUTO_REPLY || 'no',
     AUTO_READ : process.env.AUTO_READ || 'no',
     AUTO_SAVE_CONTACTS : process.env.AUTO_SAVE_CONTACTS || 'no',
